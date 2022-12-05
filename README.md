@@ -15,7 +15,7 @@ Changes were made in the CSS code so that the HTML flow followed the CSS, in tur
 3. Header, footer, and nav were added in place of div to ensure a better outline of the HTML.
 4. Some class elements were altered between the CSS and HTML as well as descriptions added to both to make them easier to follow.
 5. Media queries were added to change the layout of the webpage depending on electronic device.
-6. Links were added so that once click they would follow a paths to the desired destination on the page.
+6. Links were added so that once clicked they would follow a path to the desired destination on the page.
 7. Images attach to link to a website. All the links were changed to the same website since I do not have much of a portfolio at the moment.
 8. The image of the first application was changed in size to detail that it was the first application.
 

@@ -207,3 +207,52 @@ footer {
 #Contact, #Github, #Youtube, #Email {
     background: none;
 }
+
+@media screen and (max-width: 768px) {
+
+
+    header {
+        background: #fffef9 ;
+        min-height: 30vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 20%;
+        background: linear-gradient(to right bottom, rgba(255,255,255,0.7),
+        rgba (255,255,255,0.3)
+        );
+        padding: 50px 10px 50px 10px;
+        border-radius: 20px;
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        top: 180px;
+        text-shadow: 1px 1px grey;
+        
+    }
+
+    main {
+        display: flex;
+        justify-content: center;
+        column-gap: 80px;
+        margin-left: -10px;
+        margin-top: 150px;
+        border-radius: 20%;
+        background: none;
+    
+        
+    }
+    
+
+    .all-portfolio {
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 80px;
+        background: none;
+        column-gap: 150px;
+
+    }
+}
